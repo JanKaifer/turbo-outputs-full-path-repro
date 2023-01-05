@@ -1,0 +1,7 @@
+{
+  "pipeline": {
+    "test-cp": {
+      "outputs": ["test.out"]
+    }
+  }
+}
